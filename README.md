@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Navindu Samaranayake</h1>
-<h3 align="center">A passionate Frontend developer from SriLanka</h3>
+<h3 align="center">A passionate FullStack developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navisam31&label=Profile%20views&color=0e75b6&style=flat" alt="navisam31" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=navisam31" alt="navisam31" /></a> </p>
 
-- 🌱 I’m currently learning **Java,MERN**
+- 🌱 I’m currently learning **Java,MERN Stack**
 
 - 📫 How to reach me **navisamaranayake20@gmail.com**
+  
+- 👀 I’m interested in HTML, CSS, Javascript, C++, React, Web development
 
-- ⚡ Fun fact **I think I am funny**
+- 📫 Email me via IT22266378@my.sliit.lk to contact
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
