@@ -5,13 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=navisam31" alt="navisam31" /></a> </p>
 
-- 🌱 I’m currently learning **Java,MERN Stack**
+- 🌱 I’m currently learning react, node.js ,express
 
 - 📫 How to reach me **navisamaranayake20@gmail.com**
   
-- 👀 I’m interested in HTML, CSS, Javascript, C++, React, Web development
-
-- 📫 Email me via IT22266378@my.sliit.lk to contact
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
