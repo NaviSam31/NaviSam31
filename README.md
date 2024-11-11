@@ -1,30 +1,47 @@
-<h1 align="center">Hi 👋, I'm Navindu Samaranayake</h1>
-<h3 align="center">A passionate Frontend developer from SriLanka</h3>
+<img align="right" src="https://avatars.githubusercontent.com/u/12345678?v=4" width="200" height="200">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=navisam31&label=Profile%20views&color=0e75b6&style=flat" alt="navisam31" /> </p>
+# VehanRajintha
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=navisam31" alt="navisam31" /></a> </p>
+## Undergraduate student at SLIIT
 
-- 🌱 I’m currently learning **Java,Flutter,MERN**
+**Location:** Colombo, Sri Lanka  
+**Email:** [IT23646360@my.sliit.lk](mailto:IT23646360@my.sliit.lk)  
+**Website:** [vehanrajintha.netlify.app](https://vehanrajintha.netlify.app)  
+**Social:** [@rajintha.vehan](https://www.instagram.com/vehanrajintha/) | [vehanrajintha](https://www.instagram.com/vehanrajintha/)  
+**Contact:** [+94713910417](https://wa.link/mlvx1u)
 
-- 📫 How to reach me **navisamaranayake20@gmail.com**
+### Hi there 👋
 
-- ⚡ Fun fact **I think I am funny**
+- 🙂 I'm Vehan Rajintha
+- 🎂 I'm 21 years old
+- 💻 I'm interested in HTML,CSS,Javascript,C++,Hacking,Web developing and...
+- 🎓 I'm currently reading Computer Systems and Network Engineering Degree at SLIIT.
+- 📚 I'm also member of KCD, GDG & AICSL...
+- ❤️ I'm looking to collaborate on building websites and web apps, developing linux tools, Linux server operations and...
+- 📩 Email me via [IT23646360@my.sliit.lk](mailto:IT23646360@my.sliit.lk) to contact
+- 📷 Follow me on Instagram [https://www.instagram.com/vehanrajintha/](https://www.instagram.com/vehanrajintha/)
+- 📱 Text me on WhatsApp +94713910417
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/navisam334367" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="navisam334367" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/navisam1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="navisam1" height="30" width="40" /></a>
-<a href="https://instagram.com/navi.sam1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="navi.sam1" height="30" width="40" /></a>
-</p>
+### VehanRajintha's GitHub Stats
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+| Metric | Value |
+| --- | --- |
+| Total Stars Earned | 336 |
+| Total Commits (2024) | 758 |
+| Total PRs | 3 |
+| Total Issues | 0 |
+| Contributed to (last year) | 1 |
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=navisam31&show_icons=true&locale=en&layout=compact" alt="navisam31" /></p>
+### Most Used Languages
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navisam31&show_icons=true&locale=en" alt="navisam31" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navisam31&" alt="navisam31" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navisam31&" alt="navisam31" /></p>
+```json
+{
+  "HTML": 73.02,
+  "TypeScript": 10.01,
+  "Kotlin": 10.01,
+  "Hack": 0.91,
+  "CSS": 7.38,
+  "Shell": 0.72,
+  "PHP": 6.39,
+  "JavaScript": 0.56
+}
