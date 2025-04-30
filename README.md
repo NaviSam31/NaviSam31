@@ -43,7 +43,7 @@ Feel free to connect with me @navisam1 for all things tech or just to say hello!
   <a href="https://www.linkedin.com/in/navisam1" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/navi.sam1" target="_blank">
+  <a href="https://instagram.com/naviiindus" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
   </a>
 </p>
