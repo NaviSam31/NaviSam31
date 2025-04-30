@@ -53,7 +53,7 @@ Feel free to connect with me @navisam1 for all things tech or just to say hello!
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navisam31&show_icons=true&locale=en" alt="navisam31" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navisam31&" alt="navisam31" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navisam31&" alt="navisam31" /></p>
+
+
 
