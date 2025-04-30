@@ -11,13 +11,24 @@ I'm an explorer of new tech, an avid learner, and a problem-solver at heart. You
 
 Feel free to connect with me @navisam1 for all things tech or just to say hello! Let's shape the future of tech together. 🌟
 
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=navisam31" alt="navisam31" /></a> </p>
 
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-
-- 🌱 I’m currently learning Spring Boot 
-- 📫 How to reach me **navisamaranayake20@gmail.com**
   
+
+### Talking about Personal Stuff:
+
+- 🛠 &nbsp; I’m currently working with Spring Boot, Azure, AWS, etc.
+- 🚀 &nbsp; I’m currently exploring cloud technologies, DevOps 
+- 💬 &nbsp; Ask me anything! I am happy to help.
+- 📫 &nbsp; Reach me out: **navisamaranayake20@gmail.com**.
+
+### My Absolute Favorites:
+
+- 💻 &nbsp; I love exploring new technologies and building cool stuff.
+- 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
