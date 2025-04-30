@@ -60,7 +60,7 @@ Feel free to connect with me @navisam1 for all things tech or just to say hello!
 
 
 <a href='https://github.com/NaviSam31/github-stats-transparent'>
-
+![Stats Overview](https://raw.githubusercontent.com/NaviSam31/github-stats-transparent/output/generated/overview.svg)
 
 
 
