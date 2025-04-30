@@ -4,6 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navisam31&label=Profile%20views&color=0e75b6&style=flat" alt="navisam31" /> </p>
 
 
+### Visitor count
+<img src="https://profile-counter.glitch.me/NaviSam31/count.svg" />
+
+
 I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Spring Boot, Java, Javascript, Nodejs, MongoDB, Azure, AWS, etc.
 
 I'm an explorer of new tech, an avid learner, and a problem-solver at heart. You'll find me watching tech-related YouTube videos when I'm not in code, fueling my curiosity.
