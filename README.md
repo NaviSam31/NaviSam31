@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navisam31&label=Profile%20views&color=0e75b6&style=flat" alt="navisam31" /> </p>
 
-I am a Cloud & DevOps Enthusiast. 🚀
 
 I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Spring Boot, Java, Javascript, Nodejs, MongoDB, Azure, AWS, etc.
 
