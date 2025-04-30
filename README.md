@@ -59,8 +59,7 @@ Feel free to connect with me @navisam1 for all things tech or just to say hello!
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=navisam31&show_icons=true&locale=en&layout=compact" alt="navisam31" /></p>
 
 
-<a href='https://github.com/NaviSam31/github-stats-transparent'>
-![Stats Overview](https://raw.githubusercontent.com/NaviSam31/github-stats-transparent/output/generated/overview.svg)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navisam31&show_icons=true&locale=en" alt="navisam31" /></p>
 
 
 
