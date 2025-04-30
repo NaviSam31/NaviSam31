@@ -15,7 +15,7 @@ I'm an explorer of new tech, an avid learner, and a problem-solver at heart. You
 Feel free to connect with me @navisam1 for all things tech or just to say hello! Let's shape the future of tech together. 🌟
 <br>
 
---
+---
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=navisam31" alt="navisam31" /></a> </p>
 
