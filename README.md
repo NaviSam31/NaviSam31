@@ -8,7 +8,7 @@
 <img src="https://profile-counter.glitch.me/NaviSam31/count.svg" />
 
 
-I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Spring Boot, Java, Javascript, Nodejs, MongoDB, Azure, AWS, etc.
+I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Spring Boot, Java, Javascript, Nodejs, MongoDB, Azure, AWS, etc. Currently pursuing an Azure certification to enhance my cloud computing skills..
 
 I'm an explorer of new tech, an avid learner, and a problem-solver at heart. You'll find me watching tech-related YouTube videos when I'm not in code, fueling my curiosity.
 
@@ -22,8 +22,8 @@ Feel free to connect with me @navisam1 for all things tech or just to say hello!
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; I’m currently working with Spring Boot, Azure, AWS, etc.
-- 🚀 &nbsp; I’m currently exploring cloud technologies, DevOps 
+- 🛠 &nbsp; I’m currently working with Spring Boot, Azure, AWS, DevOps tools etc.
+- 🚀 &nbsp; I’m currently exploring cloud technologies and DevOps 
 - 💬 &nbsp; Ask me anything! I am happy to help.
 - 📫 &nbsp; Reach me out: **navisamaranayake20@gmail.com**.
 
