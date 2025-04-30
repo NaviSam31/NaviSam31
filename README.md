@@ -13,8 +13,7 @@ I have a passion for problem-solving and pioneering first-principle thinking, dr
 I'm an explorer of new tech, an avid learner, and a problem-solver at heart. You'll find me watching tech-related YouTube videos when I'm not in code, fueling my curiosity.
 
 Feel free to connect with me @navisam1 for all things tech or just to say hello! Let's shape the future of tech together. 🌟
-
-
+<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=navisam31" alt="navisam31" /></a> </p>
 
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
