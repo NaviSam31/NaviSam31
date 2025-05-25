@@ -4,10 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navisam31&label=Profile%20views&color=0e75b6&style=flat" alt="navisam31" /> </p>
 
 
-### Visitor count
-<img src="https://profile-counter.glitch.me/NaviSam31/count.svg" />
-
-
 🚀 I am passionate about mastering cloud computing, cyber security and DevOps. Driven by curiosity and a love for solving complex challenges, I am continuously seeking opportunities to learn, grow, and refine my expertise. My goal is to leverage my skills and experiences to become a top-tier cloud security professional, contributing to innovative and secure digital environments. with a strong foundation in Spring Boot, Java, Javascript, Nodejs, MongoDB, Azure, AWS, etc. Currently pursuing an Azure certification to enhance my cloud computing skills..
 
 I'm an explorer of new tech, an avid learner, and a problem-solver at heart. You'll find me watching tech-related YouTube videos when I'm not in code, fueling my curiosity.
