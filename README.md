@@ -1,8 +1,6 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br> I'm Navindu Samaranayake</h1>
 <h3 align="center"> Cloud & DevOps Enthusiast </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=navisam31&label=Profile%20views&color=0e75b6&style=flat" alt="navisam31" /> </p>
-
 
 🚀 I am passionate about mastering cloud computing, cyber security and DevOps. Driven by curiosity and a love for solving complex challenges, I am continuously seeking opportunities to learn, grow, and refine my expertise. My goal is to leverage my skills and experiences to become a top-tier cloud security professional, contributing to innovative and secure digital environments. with a strong foundation in Spring Boot, Java, Javascript, Nodejs, MongoDB, Azure, AWS, etc. Currently pursuing an Azure certification to enhance my cloud computing skills..
 
